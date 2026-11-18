@@ -1,0 +1,6 @@
+{
+  "name": "SIMS SMA Darul Ulum Kepohbaru",
+  "description": "Sistem Informasi Manajemen Sekolah Terintegrasi (SIMS) SMA Darul Ulum Kepohbaru: Profil Sekolah, Data Akademik & Siswa, Arsip Digital, dan Supervisi Digital Berbasis Instrumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
